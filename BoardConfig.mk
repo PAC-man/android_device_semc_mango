@@ -32,3 +32,6 @@ TW_FLASH_FROM_STORAGE := true
 
 # inherit from the proprietary version
 -include vendor/semc/mango/BoardConfigVendor.mk
+
+#Bluetooth
+BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/semc/mango/bluetooth
