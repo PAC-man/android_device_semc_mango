@@ -22,6 +22,7 @@
 #
 #
 
+# XperiaParts for hardware keyboard
 PRODUCT_PACKAGES += \
     XperiaParts
 
